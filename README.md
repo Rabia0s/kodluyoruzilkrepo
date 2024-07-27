@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 https://github.com/Rabia0s/kodluyoruzilkrepo.git
 ```
 
-## usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -23,7 +23,7 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
-## license
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
