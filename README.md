@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![resim](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
+
 ## Installation
 
 ```bash
@@ -25,4 +27,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![resim](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
